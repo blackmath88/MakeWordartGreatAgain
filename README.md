@@ -1,4 +1,14 @@
+<!-- BEGIN public-repo-header -->
+<div align="center">
+
 # Make WordArt Great Again
+
+<a href="https://github.com/blackmath88/MakeWordartGreatAgain"><img alt="Primary language: TypeScript" src="https://img.shields.io/badge/language-TypeScript-526078?style=flat"></a>
+<a href="https://github.com/blackmath88/MakeWordartGreatAgain/tree/main/docs"><img alt="Documentation" src="https://img.shields.io/badge/docs-guide-16796f?style=flat"></a>
+<a href="https://github.com/blackmath88/MakeWordartGreatAgain/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/blackmath88/MakeWordartGreatAgain?style=flat&amp;color=737373"></a>
+
+</div>
+<!-- END public-repo-header -->
 
 A WordArt editor that runs as a **Discord Activity** (an app embedded inside a Discord voice channel) and as a normal web page on GitHub Pages.
 It grew out of *Lumpesammlig 008 — WordArt*: text is treated as an object that people can grab, bend, fill and extrude.
